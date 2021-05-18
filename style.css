@@ -37,7 +37,7 @@ body::before {
   overflow: hidden;
 }
 
-.slidde {
+.slide {
   opacity: 0;
   height: 100vh;
   width: 100vw;
@@ -71,9 +71,9 @@ body::before {
 }
 
 .left-arrow {
-  left: calc(15vw -65px);
+  left: calc(11vw);
 }
 
 .right-arrow {
-  right: calc(15vw - -65px);
+  right: calc(11vw);
 }
